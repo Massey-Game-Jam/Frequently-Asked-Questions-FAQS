@@ -3,7 +3,7 @@
   "backups": [
     {
       "name": "Massey Game Jam FAQS",
-      "webhookUrl": "https://discordapp.com/api/webhooks/743136275091161190/XFKY8Noe1C65lVQJ3FjLc6mi2TNKrF_4bvF4SqeLIhRCNwRAK31JeXo6xKZZRJcF-llR",
+      "webhookUrl": "",
       "message": {
         "embeds": [
           {
