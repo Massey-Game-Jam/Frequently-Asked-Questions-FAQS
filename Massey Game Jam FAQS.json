@@ -1,0 +1,56 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "Massey Game Jam FAQS",
+      "webhookUrl": "https://discordapp.com/api/webhooks/743136275091161190/XFKY8Noe1C65lVQJ3FjLc6mi2TNKrF_4bvF4SqeLIhRCNwRAK31JeXo6xKZZRJcF-llR",
+      "message": {
+        "embeds": [
+          {
+            "title": "Frequently Asked Questions",
+            "color": 2555648,
+            "fields": [
+              {
+                "name": "What is a game jam?",
+                "value": "“A game jam is a gathering of game developers for the purpose of planning, designing, and creating games within a short span of time. Game developers are generally made up of programmers, game designers, artists, and others in game development-related fields.”"
+              },
+              {
+                "name": "Do I participate alone or as a team?",
+                "value": "You are able to participate alone or as a team (maximum of 4 people)."
+              },
+              {
+                "name": "Do our games need to be educational?",
+                "value": "No, not strictly—although we’d argue that players learn in games even if they’re not intended to be educational."
+              },
+              {
+                "name": "Do we need to finish the game?",
+                "value": "We strongly encourage a working prototype of your game by the end of the jam weekend, and the best games will be chosen by committee to be shown during one playtest sessions 1-2 days following the Jam"
+              },
+              {
+                "name": "Can we use any technology/tool, or are we limited?",
+                "value": "The world is your oyster! But please remember, the game jam is 1 month along and you’re working towards a playable prototype, so keep the scope of your game in mind when you’re deciding what technology and tools to use."
+              },
+              {
+                "name": "How do we sign up for Massey Game Jam?",
+                "value": "Participating in Massey Game Jam is easy – all you need to do is sign up at the bottom of the page during the signup period. There is no commitment, just gather your friends and wait until the game theme is revealed, then you can start jamming. We understand that as a high school student you have a lot of work and after school activities, so don’t worry if you can’t spend countless hours perfecting the next Minecraft. Just make sure to have fun. Massey Game Jam is open for all high school students around the world. Teams are optional, if you do choose to work in a team make sure there is a maximum of 4 people."
+              },
+              {
+                "name": "Can we get help from an outside source?",
+                "value": "Yes, you are allowed to get help from an outside source. There are also helpful articles, websites, and other resources that you can use for your game in the discord!"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam FAQS",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "MasseyGameJam.Com",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "timestamp": "2020-10-01T23:30:00.000Z"
+          }
+        ]
+      }
+    }
+  ]
+}
